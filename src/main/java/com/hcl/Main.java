@@ -2,6 +2,7 @@ package com.hcl;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        String test = "testowanie";
+        System.out.println(test);
     }
 }
